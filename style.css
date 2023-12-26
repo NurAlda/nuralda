@@ -169,7 +169,7 @@ body {
 
 }
     .home .heart {
-        transform: translateX(-50%) translateY(45px) {
+        transform: translateX(-50%) translateY(45px)
 
         }
 
@@ -224,4 +224,5 @@ body {
 }
 
 
-}
+
+
